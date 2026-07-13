@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+google-genai
+python-dotenv
+pymupdf
+pandas
+torch
+transformers
+huggingface-hub
