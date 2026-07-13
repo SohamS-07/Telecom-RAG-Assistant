@@ -10,6 +10,30 @@ The application also displays the retrieved document chunks and source reference
 
 ---
 
+## Application Preview
+
+### Home
+
+<img width="1915" height="811" alt="image" src="https://github.com/user-attachments/assets/dcdb5b8f-7ac0-407d-ac55-696b80459e2e" />
+
+
+### Generated Response
+
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/835abc20-84c5-4d4f-b8c6-c60f09cc0095" />
+
+<img width="1290" height="735" alt="image" src="https://github.com/user-attachments/assets/8fa8125e-98ed-4718-9336-bec5014180bd" />
+
+
+### Search History
+
+<img width="1067" height="385" alt="image" src="https://github.com/user-attachments/assets/2346ef5d-6af0-4150-a805-3695650da265" />
+
+<img width="1913" height="331" alt="image" src="https://github.com/user-attachments/assets/f800c473-4038-410e-bd24-5776004436ed" />
+
+
+
+---
+
 ## Features
 
 - Semantic search over telecom documents
